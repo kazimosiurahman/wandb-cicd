@@ -8,6 +8,4 @@ jobs:
       - name: hello
         run: |
           echo "hello world"
-      - name: This will fail
-        run: adadad ;
       
